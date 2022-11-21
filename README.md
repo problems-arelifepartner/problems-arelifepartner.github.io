@@ -11,16 +11,19 @@
  ​<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/> 
  ​. 
   
- ​<p align="center"> 
- ​<a href="https://wa.me/+919747636994"><img title="MR DEVIL" src="https://img.shields.io/badge/MR-_DEVIL-CONTACT ME ON-MR/DEVIL%20DEVIL?color=Blue&style=for-the-badge&logo=whatsapp"></a> 
- ​<p align="center"> 
+ 
+<p>
+<img align="center"> 
+ ​<a href="https://wa.me/+919747636994"><img title="MR_DEVIL" src="https://img.shields.io/badge/MR-_DEVIL-CONTACT ME ON-MR/DEVIL%20DEVIL?color=Blue&style=for-the-badge&logo=whatsapp"></a> 
+ ​<p align="center">
+</p>
   
  ​###​ ​Shell 
  ​``` Click here to see ``` - https://devil.github.io/cmatrix_shell.github.io/ 
   
  ​--- 
  ​### Screen shot! 
-  
+  <p>
  ​<div align="center"> 
 <img border-radius: 15px src="https://telegra.ph/file/2d7d1e87539a5fbbf4dfa.jpg" width="400" "height="500"/> 
   
