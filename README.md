@@ -7,7 +7,8 @@
   
  ​[![​Typing SVG​](https://readme-typing-svg.herokuapp.com?color=%23000000&lines=Funny+Cmatrix+shell+%F0%9F%A4%93;To+see+the+shell%3F;click+the+following+link..%F0%9F%98%8E;Created+by+MR+DEVIL+%3A)
   
- ​<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> 
+  <p>
+ ​<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/> 
  ​. 
   
  ​<p align="center"> 
@@ -20,8 +21,8 @@
  ​--- 
  ​### Screen shot! 
   
- ​<div align="center"> 
- ​  <img border-radius: 15px src="https://telegra.ph/file/2d7d1e87539a5fbbf4dfa.jpg" width="400" height="500"/> 
+ ​<div align="center"> 
+<img border-radius: 15px src="https://telegra.ph/file/2d7d1e87539a5fbbf4dfa.jpg" width="400" "height="500"/> 
   
  ​--- 
   
