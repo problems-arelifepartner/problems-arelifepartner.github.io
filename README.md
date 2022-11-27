@@ -25,7 +25,7 @@
  ​### Screen shot! 
   <p>
  ​<div align="center"> 
-<img border-radius: 15px src="https://telegra.ph/file/2d7d1e87539a5fbbf4dfa.jpg" width="400" "height="500"/> 
+<img border-radius: 15px src=".jpg" width="400" "height="500"/> 
   
  ​--- 
   
